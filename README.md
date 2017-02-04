@@ -1,5 +1,7 @@
 # Getting into Open Source
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Charlotteis/24pr2016-talk.svg)](https://greenkeeper.io/)
+
 A talk for 24 Pull Requests London, 2016.
 
 There are many reasons why you might want to work in the Open Source community.
